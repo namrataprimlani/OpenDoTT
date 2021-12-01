@@ -18,6 +18,7 @@ This project explores the trust in the IoT by allowing people to actively contro
 This section contains documentation of code used in the creation of prototypes for the OpenDoTT Project. 
 
 [x] D2.1 - Technology Demonstrators - demonstrates use of technology through early experiments with Arduino and Processing
+
 [x] D2.3 - Documentation of Prototypes - Refined Prototypes that document the working of the Data Gates concept through a Physical and Digital Prototype
 
 Arudino Code adapted from Arduino Libraries
